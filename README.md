@@ -8,4 +8,5 @@ Run the notebooks in this repository live on MyBinder — just click the button 
 
 Notebooks include:
 
+* **Exploring the Te Papa collection API** — some preliminary poking around, focusing in particular on using facets and nested records
 * **Mapping Te Papa's collections** — create some simple maps using the `production.spatial` facet of the Te Papa API to identify places where collection objects were created
