@@ -2,7 +2,7 @@ altair==2.2.2
 folium==0.6.0
 jupyter==1.0.0
 pandas==0.23.4
-requests==2.19.1
+requests==2.20.0
 tqdm==4.25.0
 vega==1.4.0
 vega-datasets==0.5.0
