@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3549095.svg)](https://doi.org/10.5281/zenodo.3549095)
+
 # Te Papa Collections API
 
 Jupyter notebooks to work with data from Te Papa's collections API.
