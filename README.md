@@ -6,7 +6,7 @@ Jupyter notebooks to work with data from Te Papa's collections API.
 
 Run the notebooks in this repository live on MyBinder — just click the button (it might take a little while to load).
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GLAM-Workbench/te-papa-api/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GLAM-Workbench/te-papa-api/master?urlpath=lab)
 
 Notebooks include:
 
