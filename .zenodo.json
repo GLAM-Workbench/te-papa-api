@@ -1,0 +1,42 @@
+{
+  "language": "eng",
+  "license": "MIT",
+  "title": "GLAM-Workbench/te-papa-api",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/GLAM-Workbench/te-papa-api/tree/v1.0.0",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/tepapa/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ],
+  "version": "v0.2.0",
+  "upload_type": "software",
+  "keywords": [
+    "digital humanities",
+    "Te Papa",
+    "Jupyter",
+    "GLAM Workbench"
+  ],
+  "publication_date": "2021-11-17",
+  "creators": [
+    {
+      "orcid": "0000-0001-7956-4498",
+      "name": "Sherratt, Tim"
+    }
+  ],
+  "access_right": "open",
+  "description": ""
+}
