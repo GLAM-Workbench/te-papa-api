@@ -1,6 +1,6 @@
 # Te Papa collections
 
-Current version: [v0.2.0](https://github.com/GLAM-Workbench/digitalnz/releases/tag/v0.2.0)
+Current version: [v1.0.0](https://github.com/GLAM-Workbench/te-papa-api/releases/tag/v1.0.0)
 
 Jupyter notebooks to work with data from [Te Papa's collections API](https://data.tepapa.govt.nz/docs/index.html). For more information see the [Te Papa](https://glam-workbench.net/tepapa/) section of the GLAM Workbench.
 
