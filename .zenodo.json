@@ -1,0 +1,42 @@
+{
+  "language": "eng",
+  "license": "MIT",
+  "title": "GLAM-Workbench/te-papa-api",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/GLAM-Workbench/te-papa-api/tree/v1.0.0",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/tepapa/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ],
+  "version": "v1.0.0",
+  "upload_type": "software",
+  "keywords": [
+    "digital humanities",
+    "Te Papa",
+    "Jupyter",
+    "GLAM Workbench"
+  ],
+  "publication_date": "2021-11-19",
+  "creators": [
+    {
+      "orcid": "0000-0001-7956-4498",
+      "name": "Sherratt, Tim"
+    }
+  ],
+  "access_right": "open",
+  "description": "<p>Current version: <a href=\"https://github.com/GLAM-Workbench/te-papa-api/releases/tag/v1.0.0\">v1.0.0</a></p> <p>Jupyter notebooks to work with data from <a href=\"https://data.tepapa.govt.nz/docs/index.html\">Te Papa’s collections API</a>. For more information see the <a href=\"https://glam-workbench.net/tepapa/\">Te Papa</a> section of the GLAM Workbench.</p> <h2 id=\"notebook-topics\">Notebook topics</h2> <ul> <li><strong>Exploring the Te Papa collection API</strong> — some preliminary poking around, focusing in particular on using facets and nested records</li> <li><strong>Mapping Te Papa’s collections</strong> — create some simple maps using the <code>production.spatial</code> facet of the Te Papa API to identify places where collection objects were created</li> </ul> <h2 id=\"cite-as\">Cite as</h2> <p>See the GLAM Workbench or <a href=\"https://doi.org/10.5281/zenodo.3549094\">Zenodo</a> for up-to-date citation details.</p> <hr /> <p>This repository is part of the <a href=\"https://glam-workbench.net/\">GLAM Workbench</a>. If you think this project is worthwhile, you can become <a href=\"https://github.com/sponsors/wragge?o=esb\">a GitHub sponsor</a>.</p>"
+}
